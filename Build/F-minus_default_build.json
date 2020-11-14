@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Slot-Simulator",
+"dataUrl": "F-minus_default_build.data.unityweb",
+"wasmCodeUrl": "F-minus_default_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "F-minus_default_build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
